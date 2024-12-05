@@ -14,8 +14,7 @@
     ],
     "categories":[
         "category1, continuum",
-        "category2, atomistics",
-        
+        "category2, atomistics"
     ],
     "steps/codes":[
         "step1, calculation of elastic constants",
