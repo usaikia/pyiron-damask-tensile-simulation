@@ -24,8 +24,8 @@
         "code2, DAMASK"
     ],
     "license": {
-        "softwar1": "pyiron is released under the terms of the BSD 3-clause license",
-        "softwar1": "LAMMPS is distributed as an open source code under the terms of the GPLv2 license",
+        "software1": "pyiron is released under the terms of the BSD 3-clause license",
+        "software1": "LAMMPS is distributed as an open source code under the terms of the GPLv2 license",
         "software2": "DAMASK is ditributed under the GNU Affero General Public License 3 (AGPLv3)"
     },
     "publication": [
